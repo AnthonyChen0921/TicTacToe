@@ -1,7 +1,3 @@
-Lab 4
-1)Yuanhao Chai (487069), Anthony Chen(486062)
-2)Anthony Chen: Creating the abstract class and fixing errors occuring in the program, Extra Credit.
-Yuanhao Chai: implementing the second game and writing fuctional use and addtional comments, Extra Credit.
 
 This program will provide the user with two games, TicTacToe and Gomoku. The user can choose which game to 
 play by giving the name of the game after the program name.
